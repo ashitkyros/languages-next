@@ -1,0 +1,17 @@
+{
+    "navigation": {
+      "home": "હોમ પેજ",
+      "about": "ઉપર"
+    },
+    "page": {
+      "home": {
+        "title": "NextJ ના i18n માં આપનું સ્વાગત છે",
+        "description": "NextJs 13 એપ્લિકેશન રાઉટરમાં આંતરરાષ્ટ્રીયકરણ"
+      },
+      "about": {
+        "title": "અમારા વિશે",
+        "description": "આ વિશે પાનું છે"
+      }
+    }
+  }
+  
